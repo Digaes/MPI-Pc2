@@ -1,5 +1,3 @@
-[Readme.md](https://github.com/user-attachments/files/27957800/Readme.md)
-
 # Parallel Word Counting with MPI
 
 ---
